@@ -1,3 +1,6 @@
+# Archive Notice
+This project was archived in 2019. Further development takes place in the upstream repository https://github.com/tilemill-project/tilemill.
+
 # General Info
 
 TileOven is a maintained fork of TileMill, tested on Linux with Node 8.11.3 LTS
